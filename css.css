@@ -1,0 +1,15 @@
+html {
+	font-family: 'Noto Sans JP', sans-serif;
+}
+h1 {
+	color: darkred;
+	text-align: center;
+	font-size: 45px;
+}
+ul {
+	list-style-type: none;
+	font-size: 35px;
+}
+li{
+	text-align: center;
+}
